@@ -1,0 +1,11 @@
+﻿.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+claim_exceptions.csv
+.DS_Store
+Thumbs.db
